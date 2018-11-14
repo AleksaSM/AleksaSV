@@ -8,4 +8,4 @@
 
 ## Задание 2
 
-[Задание 1] (https://docs.google.com/document/d/1OnjV63Hh1f0pngrQrw4ITEyrmxoBp4QVhnfrhWWIPr0/edit?usp=sharing)
+![Задание 1] (https://docs.google.com/document/d/1OnjV63Hh1f0pngrQrw4ITEyrmxoBp4QVhnfrhWWIPr0/edit?usp=sharing)
