@@ -12,3 +12,6 @@
 
 ## Задание 3
 Конспект (слайды): https://docs.google.com/presentation/d/1OL6wS9tSXe_Y0jJL2S0YWzNd1hXuNVa884nyXkH9SZ4/edit?usp=sharing
+
+## Задание 4
+Эссе на тему "Как современная цифровая среда влияет на школьников?": https://docs.google.com/document/d/1k536OEsnA5SAcl9HE_WWNXfpL7o3H-XPNGJzSrP0JA4/edit?usp=sharing
