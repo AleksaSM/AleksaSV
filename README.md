@@ -9,3 +9,6 @@
 ## Задание 2
 
 Сравнительный анализ лицензий: https://docs.google.com/document/d/1OnjV63Hh1f0pngrQrw4ITEyrmxoBp4QVhnfrhWWIPr0/edit?usp=sharing)https://github.com/AleksaSM/AleksaSV/commit/84c2826e133257a309d5c00839f8847bf25cbf8d
+
+## Задание 3
+Конспект (слайды): https://docs.google.com/presentation/d/1OL6wS9tSXe_Y0jJL2S0YWzNd1hXuNVa884nyXkH9SZ4/edit?usp=sharing
